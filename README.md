@@ -11,3 +11,16 @@ Hello! 👋 My name is Shahmir Shahid, and I am a student of Data Science Progra
 - Improve my programming logic and problem-solving skills.
 - Learn advanced topics in programming.
 - Contribute to open-source projects in the future.
+
+# My Programming Profile
+
+## Interests
+1. Problem Solving  
+2. Analysing Data  
+3. Machine Learning  
+
+## Skills
+- Python  
+- C++    
+
+This is my **_first GitHub repository_**
